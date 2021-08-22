@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SmartServerManager](https://github.com/Pepe44DEV/SmartServerManager)
 
-- 🌱 I’m currently learning **lua, Minecraft Forge**
+- 🌱 I’m currently learning **lua, Minecraft Forge, SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://pepe44.dev](https://pepe44.dev)
 
