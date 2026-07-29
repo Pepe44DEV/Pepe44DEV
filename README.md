@@ -12,8 +12,8 @@
 
 ### 🔭 I'm currently working on
 
-- 🔭 I'm currently working on [Papo Discord Bot](https://pepe44.dev)
-  and [SmartServerManager](https://github.com/Pepe44DEV)
+- 🔭 I'm currently working on [Papo Discord Bot](https://papo.pepe44.dev)
+  and [SmartServerManager](https://github.com/Pepe44DEV/SmartServerManager)
 
 ### 🌱 I'm currently learning
 
